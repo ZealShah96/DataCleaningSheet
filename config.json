@@ -1,0 +1,15 @@
+{
+    "1": {
+        "nameOfCoditioncheck": "Null Check",
+        "executionfilePath": "./ConditionCheck/nullCheck.js",
+        "error-Show-Statement": "We found null errors.",
+        "error-fill-style": {
+            "type": "pattern",
+            "pattern": "darkVertical",
+            "fgColor": {
+                "argb": "FFFF0000"
+            }
+        },
+        "conditionToCheck":"if (value == null) {return false;}return true;"
+    }
+}
